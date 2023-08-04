@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "args": [
+                "--pretrained_model_path", "./models/PubMedBERT/PubMedBERT_UER.bin" ,
+                "--config_path", "./models/google_config.json", 
+                "--vocab_path", "./models/PubMedBERT/PubMedBERTvocab.txt", 
+                "--train_path", "./datasets/CheXpert/impression/train.csv", 
+                "--dev_path", "./datasets/CheXpert/impression/test.csv",
+                "--test_path", "./datasets/CheXpert/impression/validation.csv",
+                "--epochs_num", "5", "--batch_size", "16", "--kg_name", "brain/kgs/kg_anatomy3kAndAtelectasis.spo",
+                "--output_model_path", "debug_26_07"
+            ]
+        }
+    ]
+}
