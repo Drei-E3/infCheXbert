@@ -1,5 +1,7 @@
 ## Model
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This model uses [K-BERT](https://github.com/autoliuweijie/K-BERT) architecture and [UER](https://github.com/dbiir/UER-py) framework. In addition you can use it als multiclassification with multiple labels now. You can also use Pretrained models with transformer achitecture from huggingface just runing [convert_bert_from_huggingface_to_uer.py](convert_bert_from_huggingface_to_uer.py) 
 
 ```sh
