@@ -30,7 +30,7 @@ python3 run convert_bert_from_huggingface_to_uer.py \
 
 ## Brain(knowledge graphs):
 
-the medical knowledge graphs used in this thesis consists of relation of labels () and anatomy medicine knowledge. they are format into a spo file which should be put into the folder ```./brain/kgs```. the file uses a medicine database created by [Precision Medicine Knowledge Graph (PrimeKG)](https://zitniklab.hms.harvard.edu/projects/PrimeKG/). The relative [article](https://www.biorxiv.org/content/10.1101/2022.05.01.489928v2) written by Payal Chandak*, Kexin Huang*, and Marinka Zitnik was public on Scientific Data 2023. 
+the medical knowledge graphs used in this thesis consist of relation of labels () and anatomy medicine knowledge. they are formatted into a spo file which should be put into the folder ```./brain/kgs```. The file uses a medicine database created by [Precision Medicine Knowledge Graph (PrimeKG)](https://zitniklab.hms.harvard.edu/projects/PrimeKG/). The relative [article](https://www.biorxiv.org/content/10.1101/2022.05.01.489928v2) written by Payal Chandak*, Kexin Huang*, and Marinka Zitnik was public on Scientific Data 2023. 
 
 The dataset is hosted on Harvard Dataverse, you can download it with this [link](https://dataverse.harvard.edu/api/access/datafile/6180620) and then run [kg_split.ipynb](brain/kg_split.ipynb) to manufacture the spo file. For more detail,see [readme](brain/README.md) file in the folder ```./brain```. and the original project in github [PrimeKG](https://github.com/mims-harvard/PrimeKG).
 
