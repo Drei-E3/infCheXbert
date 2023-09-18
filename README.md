@@ -34,4 +34,5 @@ the medical knowledge graphs used in this thesis consist of relation of labels (
 
 The dataset is hosted on Harvard Dataverse, you can download it with this [link](https://dataverse.harvard.edu/api/access/datafile/6180620) and then run [kg_split.ipynb](brain/kg_split.ipynb) to manufacture the spo file. For more detail,see [readme](brain/README.md) file in the folder ```./brain```. and the original project in github [PrimeKG](https://github.com/mims-harvard/PrimeKG).
 
-## 
+## experiments and models
+see experiments reports, wrong prediction reports, and training scripts in [experiments](experiments/) folder. Normally, output checkpoints are stored under [outputs](outputs/)
