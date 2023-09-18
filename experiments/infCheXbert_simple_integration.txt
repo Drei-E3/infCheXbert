@@ -1,0 +1,910 @@
+lr= 2e-5
+dropout rate: 0.1
+Batch size:  16
+training time: 6763 min 
+The number of training instances: 99371
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 100, Avg loss: 0.975
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 200, Avg loss: 0.677
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 300, Avg loss: 0.555
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 400, Avg loss: 0.441
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 500, Avg loss: 0.368
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 600, Avg loss: 0.269
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 700, Avg loss: 0.310
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 800, Avg loss: 0.237
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 900, Avg loss: 0.247
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 1000, Avg loss: 0.278
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 1100, Avg loss: 0.235
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 1200, Avg loss: 0.302
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 1300, Avg loss: 0.250
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 1400, Avg loss: 0.222
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 1500, Avg loss: 0.269
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 1600, Avg loss: 0.248
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 1700, Avg loss: 0.244
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 1800, Avg loss: 0.253
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 1900, Avg loss: 0.294
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 2000, Avg loss: 0.249
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 2100, Avg loss: 0.249
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 2200, Avg loss: 0.269
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 2300, Avg loss: 0.234
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 2400, Avg loss: 0.260
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 2500, Avg loss: 0.247
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 2600, Avg loss: 0.229
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 2700, Avg loss: 0.291
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 2800, Avg loss: 0.258
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 2900, Avg loss: 0.239
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 3000, Avg loss: 0.249
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 3100, Avg loss: 0.289
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 3200, Avg loss: 0.267
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 3300, Avg loss: 0.251
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 3400, Avg loss: 0.230
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 3500, Avg loss: 0.261
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 3600, Avg loss: 0.249
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 3700, Avg loss: 0.258
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 3800, Avg loss: 0.223
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 3900, Avg loss: 0.243
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 4000, Avg loss: 0.229
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 4100, Avg loss: 0.224
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 4200, Avg loss: 0.206
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 4300, Avg loss: 0.239
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 4400, Avg loss: 0.183
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 4500, Avg loss: 0.218
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 4600, Avg loss: 0.215
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 4700, Avg loss: 0.237
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 4800, Avg loss: 0.192
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 4900, Avg loss: 0.182
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 5000, Avg loss: 0.189
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 5100, Avg loss: 0.232
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 5200, Avg loss: 0.191
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 5300, Avg loss: 0.187
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 5400, Avg loss: 0.213
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 5500, Avg loss: 0.258
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 5600, Avg loss: 0.218
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 5700, Avg loss: 0.191
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 5800, Avg loss: 0.213
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 5900, Avg loss: 0.240
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 6000, Avg loss: 0.220
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 6100, Avg loss: 0.217
+labelsname: label_Atelectasis, Epoch id: 1, Training steps: 6200, Avg loss: 0.188
+Start evaluation on test dataset.
+Loading sentences from ./datasets/CheXpert/impression/validation.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+labelsname: label_Atelectasis, Label_value 0: 0.985, 0.999, 0.992
+labelsname: label_Atelectasis, Label_value 1: 0.774, 0.955, 0.855
+model never predicts label value 2
+labelsname: label_Atelectasis, Label_value 2: 0.000, 0.000, 0.000
+model never predicts label value 3
+labelsname: label_Atelectasis, Label_value 3: 0.000, 0.000, 0.000
+Acc. (Correct/Total): 0.9338 (30931/33124) 
+Start evaluation on evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[24701,   305,     8,    70],
+        [   12,  6219,   202,  1607],
+        [    0,     0,     0,     0],
+        [    0,     0,     0,     0]])
+Report precision, recall, and f1:
+labelsname: label_Atelectasis, Label_value 0: 0.985, 1.000, 0.992
+labelsname: label_Atelectasis, Label_value 1: 0.774, 0.953, 0.854
+model never predicts label value 2
+labelsname: label_Atelectasis, Label_value 2: 0.000, 0.000, 0.000
+model never predicts label value 3
+labelsname: label_Atelectasis, Label_value 3: 0.000, 0.000, 0.000
+Acc. (Correct/Total): 0.9335 (30920/33124) 
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 100, Avg loss: 0.211
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 200, Avg loss: 0.199
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 300, Avg loss: 0.228
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 400, Avg loss: 0.231
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 500, Avg loss: 0.230
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 600, Avg loss: 0.205
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 700, Avg loss: 0.207
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 800, Avg loss: 0.189
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 900, Avg loss: 0.193
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 1000, Avg loss: 0.208
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 1100, Avg loss: 0.186
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 1200, Avg loss: 0.248
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 1300, Avg loss: 0.187
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 1400, Avg loss: 0.181
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 1500, Avg loss: 0.227
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 1600, Avg loss: 0.224
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 1700, Avg loss: 0.178
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 1800, Avg loss: 0.201
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 1900, Avg loss: 0.211
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 2000, Avg loss: 0.175
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 2100, Avg loss: 0.208
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 2200, Avg loss: 0.181
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 2300, Avg loss: 0.162
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 2400, Avg loss: 0.195
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 2500, Avg loss: 0.199
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 2600, Avg loss: 0.177
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 2700, Avg loss: 0.227
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 2800, Avg loss: 0.177
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 2900, Avg loss: 0.164
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 3000, Avg loss: 0.158
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 3100, Avg loss: 0.200
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 3200, Avg loss: 0.194
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 3300, Avg loss: 0.185
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 3400, Avg loss: 0.175
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 3500, Avg loss: 0.188
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 3600, Avg loss: 0.199
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 3700, Avg loss: 0.209
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 3800, Avg loss: 0.182
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 3900, Avg loss: 0.190
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 4000, Avg loss: 0.176
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 4100, Avg loss: 0.178
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 4200, Avg loss: 0.197
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 4300, Avg loss: 0.185
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 4400, Avg loss: 0.150
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 4500, Avg loss: 0.209
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 4600, Avg loss: 0.169
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 4700, Avg loss: 0.209
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 4800, Avg loss: 0.153
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 4900, Avg loss: 0.153
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 5000, Avg loss: 0.153
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 5100, Avg loss: 0.208
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 5200, Avg loss: 0.125
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 5300, Avg loss: 0.152
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 5400, Avg loss: 0.182
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 5500, Avg loss: 0.224
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 5600, Avg loss: 0.174
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 5700, Avg loss: 0.139
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 5800, Avg loss: 0.176
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 5900, Avg loss: 0.198
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 6000, Avg loss: 0.170
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 6100, Avg loss: 0.172
+labelsname: label_Atelectasis, Epoch id: 2, Training steps: 6200, Avg loss: 0.155
+Start evaluation on test dataset.
+Loading sentences from ./datasets/CheXpert/impression/validation.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+labelsname: label_Atelectasis, Label_value 0: 0.984, 0.999, 0.991
+labelsname: label_Atelectasis, Label_value 1: 0.824, 0.931, 0.874
+model never predicts label value 2
+labelsname: label_Atelectasis, Label_value 2: 0.000, 0.000, 0.000
+labelsname: label_Atelectasis, Label_value 3: 0.792, 0.299, 0.434
+Acc. (Correct/Total): 0.9445 (31285/33124) 
+Start evaluation on evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[24699,   334,     8,    82],
+        [   13,  6089,   197,  1068],
+        [    0,     0,     0,     0],
+        [    1,   101,     5,   527]])
+Report precision, recall, and f1:
+labelsname: label_Atelectasis, Label_value 0: 0.983, 0.999, 0.991
+labelsname: label_Atelectasis, Label_value 1: 0.827, 0.933, 0.877
+model never predicts label value 2
+labelsname: label_Atelectasis, Label_value 2: 0.000, 0.000, 0.000
+labelsname: label_Atelectasis, Label_value 3: 0.831, 0.314, 0.456
+Acc. (Correct/Total): 0.9454 (31315/33124) 
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 100, Avg loss: 0.182
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 200, Avg loss: 0.156
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 300, Avg loss: 0.196
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 400, Avg loss: 0.199
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 500, Avg loss: 0.194
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 600, Avg loss: 0.162
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 700, Avg loss: 0.192
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 800, Avg loss: 0.164
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 900, Avg loss: 0.152
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 1000, Avg loss: 0.169
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 1100, Avg loss: 0.161
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 1200, Avg loss: 0.213
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 1300, Avg loss: 0.153
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 1400, Avg loss: 0.151
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 1500, Avg loss: 0.207
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 1600, Avg loss: 0.181
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 1700, Avg loss: 0.166
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 1800, Avg loss: 0.169
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 1900, Avg loss: 0.203
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 2000, Avg loss: 0.153
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 2100, Avg loss: 0.178
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 2200, Avg loss: 0.163
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 2300, Avg loss: 0.132
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 2400, Avg loss: 0.158
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 2500, Avg loss: 0.181
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 2600, Avg loss: 0.160
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 2700, Avg loss: 0.206
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 2800, Avg loss: 0.168
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 2900, Avg loss: 0.149
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 3000, Avg loss: 0.161
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 3100, Avg loss: 0.174
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 3200, Avg loss: 0.189
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 3300, Avg loss: 0.179
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 3400, Avg loss: 0.168
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 3500, Avg loss: 0.178
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 3600, Avg loss: 0.185
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 3700, Avg loss: 0.192
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 3800, Avg loss: 0.179
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 3900, Avg loss: 0.177
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 4000, Avg loss: 0.176
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 4100, Avg loss: 0.169
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 4200, Avg loss: 0.162
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 4300, Avg loss: 0.173
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 4400, Avg loss: 0.141
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 4500, Avg loss: 0.183
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 4600, Avg loss: 0.166
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 4700, Avg loss: 0.193
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 4800, Avg loss: 0.144
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 4900, Avg loss: 0.147
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 5000, Avg loss: 0.142
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 5100, Avg loss: 0.182
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 5200, Avg loss: 0.115
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 5300, Avg loss: 0.156
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 5400, Avg loss: 0.181
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 5500, Avg loss: 0.204
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 5600, Avg loss: 0.171
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 5700, Avg loss: 0.138
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 5800, Avg loss: 0.166
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 5900, Avg loss: 0.184
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 6000, Avg loss: 0.159
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 6100, Avg loss: 0.159
+labelsname: label_Atelectasis, Epoch id: 3, Training steps: 6200, Avg loss: 0.143
+Start evaluation on test dataset.
+Loading sentences from ./datasets/CheXpert/impression/validation.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+labelsname: label_Atelectasis, Label_value 0: 0.983, 0.999, 0.991
+labelsname: label_Atelectasis, Label_value 1: 0.836, 0.928, 0.880
+model never predicts label value 2
+labelsname: label_Atelectasis, Label_value 2: 0.000, 0.000, 0.000
+labelsname: label_Atelectasis, Label_value 3: 0.790, 0.360, 0.494
+Acc. (Correct/Total): 0.9467 (31358/33124) 
+Start evaluation on evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[24695,   318,     9,    95],
+        [   14,  6041,   201,   963],
+        [    0,     0,     0,     0],
+        [    4,   165,     0,   619]])
+Report precision, recall, and f1:
+labelsname: label_Atelectasis, Label_value 0: 0.983, 0.999, 0.991
+labelsname: label_Atelectasis, Label_value 1: 0.837, 0.926, 0.879
+model never predicts label value 2
+labelsname: label_Atelectasis, Label_value 2: 0.000, 0.000, 0.000
+labelsname: label_Atelectasis, Label_value 3: 0.786, 0.369, 0.502
+Acc. (Correct/Total): 0.9466 (31355/33124) 
+Final evaluation on the evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[24695,   318,     9,    95],
+        [   14,  6041,   201,   963],
+        [    0,     0,     0,     0],
+        [    4,   165,     0,   619]])
+Report precision, recall, and f1:
+labelsname: label_Atelectasis, Label_value 0: 0.983, 0.999, 0.991
+labelsname: label_Atelectasis, Label_value 1: 0.837, 0.926, 0.879
+model never predicts label value 2
+labelsname: label_Atelectasis, Label_value 2: 0.000, 0.000, 0.000
+labelsname: label_Atelectasis, Label_value 3: 0.786, 0.369, 0.502
+Acc. (Correct/Total): 0.9466 (31355/33124) 
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 100, Avg loss: 0.985
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 200, Avg loss: 0.728
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 300, Avg loss: 0.678
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 400, Avg loss: 0.609
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 500, Avg loss: 0.630
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 600, Avg loss: 0.588
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 700, Avg loss: 0.485
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 800, Avg loss: 0.475
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 900, Avg loss: 0.481
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 1000, Avg loss: 0.441
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 1100, Avg loss: 0.368
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 1200, Avg loss: 0.340
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 1300, Avg loss: 0.406
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 1400, Avg loss: 0.359
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 1500, Avg loss: 0.372
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 1600, Avg loss: 0.326
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 1700, Avg loss: 0.335
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 1800, Avg loss: 0.376
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 1900, Avg loss: 0.425
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 2000, Avg loss: 0.287
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 2100, Avg loss: 0.339
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 2200, Avg loss: 0.352
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 2300, Avg loss: 0.292
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 2400, Avg loss: 0.305
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 2500, Avg loss: 0.337
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 2600, Avg loss: 0.271
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 2700, Avg loss: 0.275
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 2800, Avg loss: 0.256
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 2900, Avg loss: 0.219
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 3000, Avg loss: 0.257
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 3100, Avg loss: 0.250
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 3200, Avg loss: 0.245
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 3300, Avg loss: 0.283
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 3400, Avg loss: 0.248
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 3500, Avg loss: 0.235
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 3600, Avg loss: 0.232
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 3700, Avg loss: 0.203
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 3800, Avg loss: 0.219
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 3900, Avg loss: 0.215
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 4000, Avg loss: 0.268
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 4100, Avg loss: 0.235
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 4200, Avg loss: 0.221
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 4300, Avg loss: 0.217
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 4400, Avg loss: 0.208
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 4500, Avg loss: 0.209
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 4600, Avg loss: 0.235
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 4700, Avg loss: 0.232
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 4800, Avg loss: 0.236
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 4900, Avg loss: 0.215
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 5000, Avg loss: 0.196
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 5100, Avg loss: 0.298
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 5200, Avg loss: 0.194
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 5300, Avg loss: 0.202
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 5400, Avg loss: 0.204
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 5500, Avg loss: 0.178
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 5600, Avg loss: 0.229
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 5700, Avg loss: 0.203
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 5800, Avg loss: 0.234
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 5900, Avg loss: 0.196
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 6000, Avg loss: 0.207
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 6100, Avg loss: 0.230
+labelsname: label_Cardiomegaly, Epoch id: 1, Training steps: 6200, Avg loss: 0.192
+Start evaluation on test dataset.
+Loading sentences from ./datasets/CheXpert/impression/validation.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+labelsname: label_Cardiomegaly, Label_value 0: 0.971, 0.987, 0.979
+labelsname: label_Cardiomegaly, Label_value 1: 0.958, 0.827, 0.888
+labelsname: label_Cardiomegaly, Label_value 2: 0.735, 0.927, 0.820
+labelsname: label_Cardiomegaly, Label_value 3: 0.677, 0.576, 0.623
+Acc. (Correct/Total): 0.9445 (31285/33124) 
+Start evaluation on evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[23895,   430,    62,   233],
+        [   48,  4990,    71,    86],
+        [  196,   502,  1933,    21],
+        [   16,   179,    23,   439]])
+Report precision, recall, and f1:
+labelsname: label_Cardiomegaly, Label_value 0: 0.971, 0.989, 0.980
+labelsname: label_Cardiomegaly, Label_value 1: 0.961, 0.818, 0.883
+labelsname: label_Cardiomegaly, Label_value 2: 0.729, 0.925, 0.815
+labelsname: label_Cardiomegaly, Label_value 3: 0.668, 0.564, 0.611
+Acc. (Correct/Total): 0.9436 (31257/33124) 
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 100, Avg loss: 0.282
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 200, Avg loss: 0.188
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 300, Avg loss: 0.225
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 400, Avg loss: 0.206
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 500, Avg loss: 0.229
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 600, Avg loss: 0.216
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 700, Avg loss: 0.206
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 800, Avg loss: 0.190
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 900, Avg loss: 0.218
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 1000, Avg loss: 0.215
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 1100, Avg loss: 0.218
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 1200, Avg loss: 0.185
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 1300, Avg loss: 0.193
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 1400, Avg loss: 0.180
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 1500, Avg loss: 0.211
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 1600, Avg loss: 0.165
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 1700, Avg loss: 0.203
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 1800, Avg loss: 0.239
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 1900, Avg loss: 0.208
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 2000, Avg loss: 0.147
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 2100, Avg loss: 0.231
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 2200, Avg loss: 0.218
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 2300, Avg loss: 0.192
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 2400, Avg loss: 0.181
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 2500, Avg loss: 0.226
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 2600, Avg loss: 0.179
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 2700, Avg loss: 0.177
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 2800, Avg loss: 0.197
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 2900, Avg loss: 0.178
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 3000, Avg loss: 0.181
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 3100, Avg loss: 0.189
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 3200, Avg loss: 0.201
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 3300, Avg loss: 0.219
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 3400, Avg loss: 0.207
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 3500, Avg loss: 0.190
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 3600, Avg loss: 0.190
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 3700, Avg loss: 0.181
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 3800, Avg loss: 0.183
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 3900, Avg loss: 0.167
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 4000, Avg loss: 0.222
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 4100, Avg loss: 0.202
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 4200, Avg loss: 0.202
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 4300, Avg loss: 0.197
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 4400, Avg loss: 0.190
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 4500, Avg loss: 0.187
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 4600, Avg loss: 0.224
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 4700, Avg loss: 0.188
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 4800, Avg loss: 0.208
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 4900, Avg loss: 0.186
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 5000, Avg loss: 0.166
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 5100, Avg loss: 0.228
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 5200, Avg loss: 0.172
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 5300, Avg loss: 0.179
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 5400, Avg loss: 0.177
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 5500, Avg loss: 0.160
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 5600, Avg loss: 0.198
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 5700, Avg loss: 0.176
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 5800, Avg loss: 0.211
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 5900, Avg loss: 0.167
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 6000, Avg loss: 0.179
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 6100, Avg loss: 0.214
+labelsname: label_Cardiomegaly, Epoch id: 2, Training steps: 6200, Avg loss: 0.181
+Start evaluation on test dataset.
+Loading sentences from ./datasets/CheXpert/impression/validation.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+labelsname: label_Cardiomegaly, Label_value 0: 0.983, 0.976, 0.980
+labelsname: label_Cardiomegaly, Label_value 1: 0.891, 0.887, 0.889
+labelsname: label_Cardiomegaly, Label_value 2: 0.730, 0.929, 0.818
+labelsname: label_Cardiomegaly, Label_value 3: 0.891, 0.494, 0.636
+Acc. (Correct/Total): 0.9454 (31314/33124) 
+Start evaluation on evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[23623,   223,    36,   151],
+        [  303,  5363,    96,   229],
+        [  218,   501,  1942,    23],
+        [   11,    14,    15,   376]])
+Report precision, recall, and f1:
+labelsname: label_Cardiomegaly, Label_value 0: 0.983, 0.978, 0.980
+labelsname: label_Cardiomegaly, Label_value 1: 0.895, 0.879, 0.887
+labelsname: label_Cardiomegaly, Label_value 2: 0.724, 0.930, 0.814
+labelsname: label_Cardiomegaly, Label_value 3: 0.904, 0.483, 0.629
+Acc. (Correct/Total): 0.9451 (31304/33124) 
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 100, Avg loss: 0.253
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 200, Avg loss: 0.161
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 300, Avg loss: 0.218
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 400, Avg loss: 0.179
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 500, Avg loss: 0.221
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 600, Avg loss: 0.196
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 700, Avg loss: 0.173
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 800, Avg loss: 0.157
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 900, Avg loss: 0.196
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 1000, Avg loss: 0.192
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 1100, Avg loss: 0.195
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 1200, Avg loss: 0.173
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 1300, Avg loss: 0.172
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 1400, Avg loss: 0.169
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 1500, Avg loss: 0.196
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 1600, Avg loss: 0.160
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 1700, Avg loss: 0.192
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 1800, Avg loss: 0.222
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 1900, Avg loss: 0.187
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 2000, Avg loss: 0.138
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 2100, Avg loss: 0.222
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 2200, Avg loss: 0.204
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 2300, Avg loss: 0.170
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 2400, Avg loss: 0.165
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 2500, Avg loss: 0.219
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 2600, Avg loss: 0.159
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 2700, Avg loss: 0.161
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 2800, Avg loss: 0.174
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 2900, Avg loss: 0.152
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 3000, Avg loss: 0.168
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 3100, Avg loss: 0.168
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 3200, Avg loss: 0.181
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 3300, Avg loss: 0.207
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 3400, Avg loss: 0.195
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 3500, Avg loss: 0.174
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 3600, Avg loss: 0.178
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 3700, Avg loss: 0.167
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 3800, Avg loss: 0.187
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 3900, Avg loss: 0.149
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 4000, Avg loss: 0.200
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 4100, Avg loss: 0.199
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 4200, Avg loss: 0.183
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 4300, Avg loss: 0.184
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 4400, Avg loss: 0.178
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 4500, Avg loss: 0.173
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 4600, Avg loss: 0.214
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 4700, Avg loss: 0.164
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 4800, Avg loss: 0.192
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 4900, Avg loss: 0.169
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 5000, Avg loss: 0.156
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 5100, Avg loss: 0.211
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 5200, Avg loss: 0.161
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 5300, Avg loss: 0.171
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 5400, Avg loss: 0.160
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 5500, Avg loss: 0.152
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 5600, Avg loss: 0.187
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 5700, Avg loss: 0.162
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 5800, Avg loss: 0.199
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 5900, Avg loss: 0.159
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 6000, Avg loss: 0.173
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 6100, Avg loss: 0.196
+labelsname: label_Cardiomegaly, Epoch id: 3, Training steps: 6200, Avg loss: 0.170
+Start evaluation on test dataset.
+Loading sentences from ./datasets/CheXpert/impression/validation.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+labelsname: label_Cardiomegaly, Label_value 0: 0.983, 0.979, 0.981
+labelsname: label_Cardiomegaly, Label_value 1: 0.911, 0.886, 0.898
+labelsname: label_Cardiomegaly, Label_value 2: 0.737, 0.926, 0.821
+labelsname: label_Cardiomegaly, Label_value 3: 0.870, 0.569, 0.688
+Acc. (Correct/Total): 0.9489 (31430/33124) 
+Start evaluation on evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[23669,   234,    42,   160],
+        [  261,  5353,    95,   171],
+        [  207,   489,  1935,    22],
+        [   18,    25,    17,   426]])
+Report precision, recall, and f1:
+labelsname: label_Cardiomegaly, Label_value 0: 0.982, 0.980, 0.981
+labelsname: label_Cardiomegaly, Label_value 1: 0.910, 0.877, 0.894
+labelsname: label_Cardiomegaly, Label_value 2: 0.729, 0.926, 0.816
+labelsname: label_Cardiomegaly, Label_value 3: 0.877, 0.547, 0.674
+Acc. (Correct/Total): 0.9474 (31383/33124) 
+Final evaluation on the evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[23669,   234,    42,   160],
+        [  261,  5353,    95,   171],
+        [  207,   489,  1935,    22],
+        [   18,    25,    17,   426]])
+Report precision, recall, and f1:
+labelsname: label_Cardiomegaly, Label_value 0: 0.982, 0.980, 0.981
+labelsname: label_Cardiomegaly, Label_value 1: 0.910, 0.877, 0.894
+labelsname: label_Cardiomegaly, Label_value 2: 0.729, 0.926, 0.816
+labelsname: label_Cardiomegaly, Label_value 3: 0.877, 0.547, 0.674
+Acc. (Correct/Total): 0.9474 (31383/33124) 
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 100, Avg loss: 0.730
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 200, Avg loss: 0.481
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 300, Avg loss: 0.421
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 400, Avg loss: 0.375
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 500, Avg loss: 0.435
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 600, Avg loss: 0.303
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 700, Avg loss: 0.210
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 800, Avg loss: 0.168
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 900, Avg loss: 0.172
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 1000, Avg loss: 0.132
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 1100, Avg loss: 0.148
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 1200, Avg loss: 0.153
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 1300, Avg loss: 0.148
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 1400, Avg loss: 0.157
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 1500, Avg loss: 0.169
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 1600, Avg loss: 0.115
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 1700, Avg loss: 0.125
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 1800, Avg loss: 0.161
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 1900, Avg loss: 0.114
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 2000, Avg loss: 0.122
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 2100, Avg loss: 0.091
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 2200, Avg loss: 0.127
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 2300, Avg loss: 0.132
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 2400, Avg loss: 0.107
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 2500, Avg loss: 0.148
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 2600, Avg loss: 0.122
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 2700, Avg loss: 0.124
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 2800, Avg loss: 0.118
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 2900, Avg loss: 0.123
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 3000, Avg loss: 0.120
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 3100, Avg loss: 0.120
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 3200, Avg loss: 0.141
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 3300, Avg loss: 0.124
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 3400, Avg loss: 0.109
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 3500, Avg loss: 0.118
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 3600, Avg loss: 0.138
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 3700, Avg loss: 0.127
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 3800, Avg loss: 0.124
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 3900, Avg loss: 0.122
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 4000, Avg loss: 0.106
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 4100, Avg loss: 0.127
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 4200, Avg loss: 0.101
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 4300, Avg loss: 0.114
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 4400, Avg loss: 0.101
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 4500, Avg loss: 0.134
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 4600, Avg loss: 0.153
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 4700, Avg loss: 0.088
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 4800, Avg loss: 0.119
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 4900, Avg loss: 0.115
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 5000, Avg loss: 0.120
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 5100, Avg loss: 0.118
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 5200, Avg loss: 0.118
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 5300, Avg loss: 0.114
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 5400, Avg loss: 0.130
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 5500, Avg loss: 0.116
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 5600, Avg loss: 0.111
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 5700, Avg loss: 0.113
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 5800, Avg loss: 0.132
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 5900, Avg loss: 0.124
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 6000, Avg loss: 0.119
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 6100, Avg loss: 0.111
+labelsname: label_Consolidation, Epoch id: 1, Training steps: 6200, Avg loss: 0.105
+Start evaluation on test dataset.
+Loading sentences from ./datasets/CheXpert/impression/validation.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+labelsname: label_Consolidation, Label_value 0: 0.993, 1.000, 0.996
+labelsname: label_Consolidation, Label_value 1: 0.714, 0.841, 0.772
+labelsname: label_Consolidation, Label_value 2: 0.774, 0.848, 0.809
+model never predicts label value 3
+labelsname: label_Consolidation, Label_value 3: 0.000, 0.000, 0.000
+Acc. (Correct/Total): 0.9673 (32040/33124) 
+Start evaluation on evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[29565,   158,    39,    12],
+        [    6,  1420,   144,   458],
+        [    3,   111,  1020,   188],
+        [    0,     0,     0,     0]])
+Report precision, recall, and f1:
+labelsname: label_Consolidation, Label_value 0: 0.993, 1.000, 0.996
+labelsname: label_Consolidation, Label_value 1: 0.700, 0.841, 0.764
+labelsname: label_Consolidation, Label_value 2: 0.772, 0.848, 0.808
+model never predicts label value 3
+labelsname: label_Consolidation, Label_value 3: 0.000, 0.000, 0.000
+Acc. (Correct/Total): 0.9662 (32005/33124) 
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 100, Avg loss: 0.117
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 200, Avg loss: 0.113
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 300, Avg loss: 0.133
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 400, Avg loss: 0.099
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 500, Avg loss: 0.116
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 600, Avg loss: 0.136
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 700, Avg loss: 0.123
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 800, Avg loss: 0.128
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 900, Avg loss: 0.129
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 1000, Avg loss: 0.103
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 1100, Avg loss: 0.119
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 1200, Avg loss: 0.120
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 1300, Avg loss: 0.125
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 1400, Avg loss: 0.111
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 1500, Avg loss: 0.132
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 1600, Avg loss: 0.092
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 1700, Avg loss: 0.096
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 1800, Avg loss: 0.123
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 1900, Avg loss: 0.108
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 2000, Avg loss: 0.115
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 2100, Avg loss: 0.078
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 2200, Avg loss: 0.114
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 2300, Avg loss: 0.116
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 2400, Avg loss: 0.096
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 2500, Avg loss: 0.123
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 2600, Avg loss: 0.104
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 2700, Avg loss: 0.111
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 2800, Avg loss: 0.107
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 2900, Avg loss: 0.102
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 3000, Avg loss: 0.104
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 3100, Avg loss: 0.109
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 3200, Avg loss: 0.123
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 3300, Avg loss: 0.112
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 3400, Avg loss: 0.102
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 3500, Avg loss: 0.108
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 3600, Avg loss: 0.124
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 3700, Avg loss: 0.114
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 3800, Avg loss: 0.111
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 3900, Avg loss: 0.108
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 4000, Avg loss: 0.089
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 4100, Avg loss: 0.102
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 4200, Avg loss: 0.095
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 4300, Avg loss: 0.102
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 4400, Avg loss: 0.091
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 4500, Avg loss: 0.124
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 4600, Avg loss: 0.119
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 4700, Avg loss: 0.071
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 4800, Avg loss: 0.101
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 4900, Avg loss: 0.098
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 5000, Avg loss: 0.114
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 5100, Avg loss: 0.109
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 5200, Avg loss: 0.112
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 5300, Avg loss: 0.096
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 5400, Avg loss: 0.121
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 5500, Avg loss: 0.096
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 5600, Avg loss: 0.104
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 5700, Avg loss: 0.092
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 5800, Avg loss: 0.115
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 5900, Avg loss: 0.113
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 6000, Avg loss: 0.108
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 6100, Avg loss: 0.095
+labelsname: label_Consolidation, Epoch id: 2, Training steps: 6200, Avg loss: 0.089
+Start evaluation on test dataset.
+Loading sentences from ./datasets/CheXpert/impression/validation.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+labelsname: label_Consolidation, Label_value 0: 0.993, 1.000, 0.996
+labelsname: label_Consolidation, Label_value 1: 0.736, 0.819, 0.775
+labelsname: label_Consolidation, Label_value 2: 0.818, 0.866, 0.841
+labelsname: label_Consolidation, Label_value 3: 0.745, 0.182, 0.293
+Acc. (Correct/Total): 0.9702 (32138/33124) 
+Start evaluation on evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[29566,   159,    40,    12],
+        [    5,  1407,   114,   436],
+        [    3,   106,  1036,    82],
+        [    0,    17,    13,   128]])
+Report precision, recall, and f1:
+labelsname: label_Consolidation, Label_value 0: 0.993, 1.000, 0.996
+labelsname: label_Consolidation, Label_value 1: 0.717, 0.833, 0.771
+labelsname: label_Consolidation, Label_value 2: 0.844, 0.861, 0.853
+labelsname: label_Consolidation, Label_value 3: 0.810, 0.195, 0.314
+Acc. (Correct/Total): 0.9702 (32137/33124) 
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 100, Avg loss: 0.101
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 200, Avg loss: 0.098
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 300, Avg loss: 0.113
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 400, Avg loss: 0.088
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 500, Avg loss: 0.099
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 600, Avg loss: 0.110
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 700, Avg loss: 0.109
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 800, Avg loss: 0.107
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 900, Avg loss: 0.115
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 1000, Avg loss: 0.091
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 1100, Avg loss: 0.108
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 1200, Avg loss: 0.108
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 1300, Avg loss: 0.093
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 1400, Avg loss: 0.089
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 1500, Avg loss: 0.120
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 1600, Avg loss: 0.081
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 1700, Avg loss: 0.084
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 1800, Avg loss: 0.106
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 1900, Avg loss: 0.087
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 2000, Avg loss: 0.097
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 2100, Avg loss: 0.066
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 2200, Avg loss: 0.099
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 2300, Avg loss: 0.104
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 2400, Avg loss: 0.077
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 2500, Avg loss: 0.103
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 2600, Avg loss: 0.083
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 2700, Avg loss: 0.103
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 2800, Avg loss: 0.094
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 2900, Avg loss: 0.088
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 3000, Avg loss: 0.082
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 3100, Avg loss: 0.088
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 3200, Avg loss: 0.104
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 3300, Avg loss: 0.097
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 3400, Avg loss: 0.085
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 3500, Avg loss: 0.085
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 3600, Avg loss: 0.106
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 3700, Avg loss: 0.097
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 3800, Avg loss: 0.092
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 3900, Avg loss: 0.096
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 4000, Avg loss: 0.080
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 4100, Avg loss: 0.084
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 4200, Avg loss: 0.076
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 4300, Avg loss: 0.084
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 4400, Avg loss: 0.080
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 4500, Avg loss: 0.110
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 4600, Avg loss: 0.092
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 4700, Avg loss: 0.063
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 4800, Avg loss: 0.086
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 4900, Avg loss: 0.078
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 5000, Avg loss: 0.094
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 5100, Avg loss: 0.085
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 5200, Avg loss: 0.098
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 5300, Avg loss: 0.078
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 5400, Avg loss: 0.104
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 5500, Avg loss: 0.083
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 5600, Avg loss: 0.087
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 5700, Avg loss: 0.079
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 5800, Avg loss: 0.101
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 5900, Avg loss: 0.094
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 6000, Avg loss: 0.090
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 6100, Avg loss: 0.076
+labelsname: label_Consolidation, Epoch id: 3, Training steps: 6200, Avg loss: 0.075
+Start evaluation on test dataset.
+Loading sentences from ./datasets/CheXpert/impression/validation.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+labelsname: label_Consolidation, Label_value 0: 0.993, 1.000, 0.996
+labelsname: label_Consolidation, Label_value 1: 0.787, 0.800, 0.793
+labelsname: label_Consolidation, Label_value 2: 0.862, 0.854, 0.858
+labelsname: label_Consolidation, Label_value 3: 0.703, 0.451, 0.550
+Acc. (Correct/Total): 0.9739 (32259/33124) 
+Start evaluation on evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[29566,   158,    39,    12],
+        [    6,  1368,   101,   305],
+        [    2,    79,  1028,    51],
+        [    0,    84,    35,   290]])
+Report precision, recall, and f1:
+labelsname: label_Consolidation, Label_value 0: 0.993, 1.000, 0.996
+labelsname: label_Consolidation, Label_value 1: 0.769, 0.810, 0.789
+labelsname: label_Consolidation, Label_value 2: 0.886, 0.855, 0.870
+labelsname: label_Consolidation, Label_value 3: 0.709, 0.441, 0.544
+Acc. (Correct/Total): 0.9737 (32252/33124) 
+Final evaluation on the evaluation dataset.
+Loading sentences from ./datasets/CheXpert/impression/test.csv
+There are 33124 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/33124
+Progress of process 0: 10000/33124
+Progress of process 0: 20000/33124
+Progress of process 0: 30000/33124
+The number of evaluation instances:  33124
+Confusion matrix of {label_name}:
+tensor([[29566,   158,    39,    12],
+        [    6,  1368,   101,   305],
+        [    2,    79,  1028,    51],
+        [    0,    84,    35,   290]])
+Report precision, recall, and f1:
+labelsname: label_Consolidation, Label_value 0: 0.993, 1.000, 0.996
+labelsname: label_Consolidation, Label_value 1: 0.769, 0.810, 0.789
+labelsname: label_Consolidation, Label_value 2: 0.886, 0.855, 0.870
+labelsname: label_Consolidation, Label_value 3: 0.709, 0.441, 0.544
+Acc. (Correct/Total): 0.9737 (32252/33124) 
