@@ -1,2 +1,9 @@
 torch>=1.0
 argparse==1.1
+pandas
+matplotlib
+scikit-learn
+Flask
+requests
+numpy
+scipy
